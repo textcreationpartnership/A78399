@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cavaliers catechisme, and confession of his faith, consisting in foure principall heads, viz. 1. His duty towards God, and confession of the holy Trinity 2. His duty towards his King, and superiours, spirituall and temporall. 3. His duty to his neighbour in generall. 4. His duty to and opinion of the Sacraments. All familiarly explained (by way of question and answer) betweene a zealous minister of the Gospell, and a gentleman who had serv'd his Majesty in the late unhappy warre, being very usefull for all sorts of people to practise.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78399</idno>
+            <idno type="STC">Wing C1568</idno>
+            <idno type="STC">Thomason E1186_7</idno>
+            <idno type="STC">ESTC R204935</idno>
+            <idno type="EEBO-CITATION">99864383</idno>
+            <idno type="PROQUEST">99864383</idno>
+            <idno type="VID">170688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170688)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 256:E1186[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cavaliers catechisme, and confession of his faith, consisting in foure principall heads, viz. 1. His duty towards God, and confession of the holy Trinity 2. His duty towards his King, and superiours, spirituall and temporall. 3. His duty to his neighbour in generall. 4. His duty to and opinion of the Sacraments. All familiarly explained (by way of question and answer) betweene a zealous minister of the Gospell, and a gentleman who had serv'd his Majesty in the late unhappy warre, being very usefull for all sorts of people to practise.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Burton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "and confession .. Trinity", "and superiors, .. temporall.", and "and opinion of" are enclosed in square brackets on the title page.</note>
+                  <note>A different work from Wing C1567.</note>
+                  <note>Annotation on Thomason copy: "march 15th"; the 7 in the imprint date has been crossed out and replaced with a "6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Royalists --  England --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170688:1" rendition="simple:additions"/>
+            <p>THE CAVALIERS <hi>CATECHISME,</hi> AND Confeſsion of his Faith, Conſiſting in foure principall Heads, <hi>viz.</hi>
+               <list>
+                  <item>1. His duty towards God, [and confeſſion of the holy Trinity]</item>
+                  <item>2. His duty towards his KING, [and Superiors, Spirituall and Temporall.]</item>
+                  <item>3. His duty to his Neighbour in generall.</item>
+                  <item>4. His duty to [and opinion of] the Sacraments.</item>
+               </list>
+            </p>
+            <p>All familiarly explained (by way of queſtion and Anſwer) betweene A Zealous Miniſter of the Goſpell, and a Gentleman who had ſerv'd his Majeſty in the late unhappy Warre, being very uſefull for all ſorts of people to Practiſe.</p>
+            <q>
+               <bibl>Ezra 7. verſe 26.</bibl>
+               <p>And whoſoever will not doe the Law of thy God and the law of the King, Let Judgment be Executed ſpeedily upon him, whether it be unto death, or to baniſhment, or to conſiſcation of goods, or to Jm<g ref="char:EOLhyphen"/>priſonment.</p>
+               <p>27. bleſſed be the Lord God of our fore-fathers which hath put ſuch a thing as this into the Kings beart to butifie the houſe of the Lord which is in Ie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſalem.</p>
+            </q>
+            <p>LONDON, Printed for <hi>Richard Burton,</hi> 1647. <add>March 15<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <pb facs="tcp:170688:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170688:3"/>
+            <pb n="3" facs="tcp:170688:3"/>
+            <head>THE CAVALIERS CATECHISME.</head>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Hat is your Name?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Cavalier.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Who gave you that name?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>They who underſtood not what they did when they gave it; For it was intended to my infamy, but it proves to my dignity, a Cavalier ſignifying a Gentleman, who ſerves [or hath ſerv'd] his King on Horſe-back.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Then it ſeemes you have beene for the King?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>I Sir, and am ſtill, withall my heart to wiſh his honour and ſafety, and I hold it my duty to do ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Well let that paſſe till anon, but [in the in<g ref="char:EOLhyphen"/>terim] I pray you tell me what Religion you are of, for it is generally reported of you Cavaliers that you are all moſt infamous Livers, Atheiſts Epicures, Swearers, Blaſphemars, Drunkards, Murderers, and Raviſhers, and (at the leaſt) dapiſts.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:170688:4"/>
+               <speaker>Sold.</speaker>
+               <p>To theſe and the like ſcandalous aſperſions, I will only ſay thus, (in briefe Sir) that as I can<g ref="char:EOLhyphen"/>not excuſe all of our Party (no more then you can all of yours) ſo I cannot but in Conſcience (according to my ability) be bound to defend &amp; vindicate the Major part of us from ſuch ma<g ref="char:EOLhyphen"/>litious, and fraudulent Calumniations, therefore give me leave,<note place="margin">Pſal. 118.22: Mat. 21.42: Act 4.11. Epheſ: 2.20. </note> Sir, to quench your firſt (and grea<g ref="char:EOLhyphen"/>teſt brand Athieſmy, in Anſwer of your queſtion of my Religion, which I dare avouch to be the true Religion builded upon Chriſt and his A<g ref="char:EOLhyphen"/>poſtles, whereof hee himſelfe is the head corner<g ref="char:EOLhyphen"/>ſtone as was both Propheſied and teſtified by himſelfe and his Servants.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>What is God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>God is a ſpirituall ſubſtance, inteligent, eter<g ref="char:EOLhyphen"/>nall, all ſeeing, everliving Creator, and conſer<g ref="char:EOLhyphen"/>vor of all things, infinitely good, wiſe, juſt, and mercifull.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>How many Gods are there?</hi> 
+                  <note place="margin">Deut. 6.4. Iſa 44:6. Iſa. 45.5. 1 Cor: 8.4. Epheſ. 4.6. 1 Tim 2.5</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>There are three Perſons but only one God.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>How prove you the unity of the God-head?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Heare O <hi>Iſraell</hi> the Lord thy God is one Lord. I am the firſt and the laſt, and beſides me there is no God. I am the Lord thy God, and there is none elſe, there is no God beſides mee. For an Idoll is nothing, and there is none other God, but one God and Father of all who is a<g ref="char:EOLhyphen"/>bove all, and through all, and in you all.</p>
+               <p>For there is one God, and one Mediator be<g ref="char:EOLhyphen"/>tweene
+<pb n="5" facs="tcp:170688:4"/>God and men: the man (as man) Ieſus Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>How many Divine Perſons are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>There is only one divine eſſence which is di<g ref="char:EOLhyphen"/>ſtinguiſhed into three Perſons, <hi>viz.</hi> the Father, the Son, and the Holy Ghoſt.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>What is ſignified by this word Perſon, in the Godhead?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>A Perſon (in the Trinity) is a ſubſtance indi<g ref="char:EOLhyphen"/>viduall and inteligent.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>How prove you that there is three Perſons?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>By Chriſts own Miſſion given to his Apoſtles, ſaying, go teach all Nations, Baptizing them in the name of the Father, and of the Son, and of the Holy Ghoſt;<note place="margin">Math. 28.19 Math. 16.15 Math: 3, 16 1617</note> thus theſe three Conſubſtanti<g ref="char:EOLhyphen"/>all perſons. Alſo when <hi>Iohn</hi> Baptiſed our Sa<g ref="char:EOLhyphen"/>viour, the Holy Ghoſt deſcending in the forme of a Dove, alighted on him, when immediatly a voice from Heaven ſaid this is my beloved Sonne &amp;c. Loe here the Father teſtifies of the Son to the Holy Ghoſt who came to confirme the Sa<g ref="char:EOLhyphen"/>crament of Baptiſme begun in (and by) our Lord Ieſus, moreover, as it were by way of in<g ref="char:EOLhyphen"/>terchange, our Saviour promiſed his Diſciples to ſend the Holy Ghoſt the comforter to re<g ref="char:EOLhyphen"/>maine with them for ever,<note place="margin">Iohn 14.</note> and to teach them all truth.</p>
+               <p>Laſtly there are three which beare record in Heaven (ſaith St. <hi>Iohn</hi>) the Father, the word,<note place="margin">1 Ioh. 5.1.</note> and the ſpirit, and thoſe three are one; heere the
+<pb n="6" facs="tcp:170688:5"/>ſecond perſon is called word.<note place="margin">Ioh. 1.1. &amp;c.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>What ſignifies (the ſame) St.</hi> John, <hi>when hee ſaith:</hi> In the beginning was the Word, and the word was with God, and God was the Word.</p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>The Evangeliſt by calling it the word, meanes the Son of God, the ſecond perſon in Trinity; So that this Sentence, <hi>In the beginning was the word</hi> is as much as to ſay, the Son of God, (e<g ref="char:EOLhyphen"/>ven God himſelfe) was in the beginning, being from (and to) all eternity.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>You have ſufficiently cleard the Divinity of the Father in our firſt diſcourſe, and alſo given ſuch examples of the Son and the Holy Ghoſt, that may ſatisfie any Sober Chriſtian, yet ſeeing (the mor's the pitty) that there are ſuch a hel<g ref="char:EOLhyphen"/>liſh ſort of young Alians Aerians, and Antiſtri<g ref="char:EOLhyphen"/>nitarians riſen up in this peſtifferous age:</hi>
+                  <note place="margin">2 Tim. 3.</note> 
+                  <hi>whereof Saint</hi> Paul <hi>forwarnd</hi> Timothy. <hi>I pray you let me ſomewhat more heare you. Illu<g ref="char:EOLhyphen"/>ſtrat the God-head of the Son and the Holy Ghoſt and firſt of the Son.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Who ever unles, his eyes bee ſhut againſt al truth, ſhall but read the very laſt cited place, which is <hi>Iohn</hi> 1. and ſcan it all over may ſee as cleare as the Sun in his Meridian on a Somers day,<note place="margin">v. 3. v. 10. Heb. 11.3 ibid.</note> the Divinity of Chriſt, as all things were made by him, and without him was nothing made that was made: hee was in the world and the world was made by him; and the world knew him not. Alſo Saint <hi>Paul</hi> ſaith, by him
+<pb n="7" facs="tcp:170688:5"/>were all things created that are in Heaven,<note place="margin">Coloſ. 1.16, 17.</note> or that are in the Earth, viſible and inviſible, whe<g ref="char:EOLhyphen"/>ther they be Thrones, Dominations, Principali<g ref="char:EOLhyphen"/>ties or Powers, all things were created by him, and for him: and hee is before all things,<note place="margin">Coloſ. 2.1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and by him all things conſiſt; if Creator of the World, ſurely God alſo, for in him dwelleth all the fullneſſe of the godhead bodily: Saint <hi>Paul</hi> ſaith to the Hebr ſpeaking of the Father. And the Son; by him (the Son) the world was made.<note place="margin">Iohn 17.5.</note>
+               </p>
+               <p>I have glorified thee on earth, I have finiſhed the work which thou ſetteſt mee to do. And now O Father glorifie mee with thy ſelfe, with the Glory which I had with thee before the world was.</p>
+               <p>Saint <hi>Thomas</hi> when (by feeling he had found his error cried, out my Lord and my God,<note place="margin">Iohn 20.28. Rom. 9.5</note> thus much of Chriſt who is eternall, God bleſſed for ever, Amen.</p>
+               <p>I hope, Sir, you are ſatisfied in this point.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Very well I proteſt, now I pray,</hi>
+                  <note place="margin">Miui.</note> 
+                  <hi>prove the dei<g ref="char:EOLhyphen"/>ty of the holy Ghoſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>The teſtimonies before mentioned,<note place="margin">
+                     <hi>Sold.</hi> Math. 28.19. Mark 16.15. Mat. 3.17</note> as where our Saviour bids Baptiſe in the name of the Fa<g ref="char:EOLhyphen"/>ther and of the Son, and of the Holy Ghoſt, &amp;c. here is unity in Trinity, and Trinity in unity, For they were not to Baptiſe in the name of the Fa<g ref="char:EOLhyphen"/>ther or of the Son, &amp;c. but and of; making of three Perſons one God. Alſo in the Baptiſme of Chriſt, the Son was apparent in humane ſhape,
+<pb n="8" facs="tcp:170688:6"/>the Holy Ghoſt in the figure of a Dove, and the Father only diſtinguiſhed by a voice from hea<g ref="char:EOLhyphen"/>ven, ſaith, this is my beloved Son; now this voice of the Father was of his Son Chriſt; there is two diſtinct perſons, the Holy Ghoſt, the a<g ref="char:EOLhyphen"/>pearing in the Species of a Dove was neither the Father nor the Son; therefore was it and ever ſhall be the third perſon of the holy and individuall Trinity; all three in one Coeſſenti<g ref="char:EOLhyphen"/>all, Coequall,<note place="margin">Iohn 14.6.</note> and Coeternall.</p>
+               <p>I will pray to my Father (ſaith our Lord) and he ſhall ſend you another comforter (meaning the Holy Ghoſt) note here, &amp;c. I pray you: The Holy Ghoſt muſt be ſent from the Father through the meanes of the Son, there<g ref="char:EOLhyphen"/>fore from both proceeding is conſubſtantiall, and a like equivalent with both,<note place="margin">Pet. 1.10.11.</note> of which ſalva<g ref="char:EOLhyphen"/>tion the Prophets have enquired and diligently ſearched: who propheſied of the grace that ſhould come unto you ſearching what, or what maner of time the ſpirit of Chriſt which was in them did ſignifie when it (beforehand) teſtified the Paſſion of Chriſt,<note place="margin">Iohn 5.7</note> and the glory that ſhould follow.</p>
+               <p>But Ile conclude this point, and I hope ſuffici<g ref="char:EOLhyphen"/>ently, with what hath bin ſpoken before out of Saint <hi>Iohn,</hi> there are three which beare record in heaven, the Father, the word, and the holy Ghoſt, and theſe three are one, that is to ſay, the the Father, the Son, and the Holy Ghoſt are
+<pb n="9" facs="tcp:170688:6"/>three diſtinct perſons and one eternall and ever<g ref="char:EOLhyphen"/>living God to whom bee all honour, glory, dominion and power now and for ever Amen.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Are Kings and other Magiſtrates of divine inſtitution?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Yea queſtionleſſe as tis apparent by many and ſundry places.<note place="margin">
+                     <hi>Sold.</hi> Rom. 13.<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Prov. 8.15. Prov. 21.1</note> Let every ſoule bee ſubject unto the higher powers, for there is no power but of God, &amp;c. By me Kings Reigne and Princes ex<g ref="char:EOLhyphen"/>ecute Juſtice, ſaith God. The Kings heart is in the hands of the Lord; as the Rivers of wa<g ref="char:EOLhyphen"/>ter he turneth it whither ſoever he will.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>May this honour and ſervice extend only to good Kings or to all both good and bad?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Even to the bad as well as the good, for in St. <hi>Pauls</hi> time there were no Chriſtian Princes to obey the Apoſtle impoſing this obedience even to the heathen Tyrant <hi>Nero</hi> who then perſe<g ref="char:EOLhyphen"/>cuted him and afterwards cut off his head, ex<g ref="char:EOLhyphen"/>horting alſo his diſciple <hi>Timothy</hi> in theſe words even for <hi>Nero</hi> and this life.</p>
+               <p>I exhort therefore firſt of all, that ſupplicati<g ref="char:EOLhyphen"/>ons Prayers, interceſſions, and giving of thanks,<note place="margin">1. Tim: 1.2</note> be made for all men: for Kings and for all that are in authority, <hi>&amp;c.</hi>
+               </p>
+               <p>So Saint <hi>Peter;</hi>
+                  <note place="margin">1 Pet: 2:13.14</note> ſubmit your ſelves to every
+<pb n="10" facs="tcp:170688:7"/>Ordinance of man for the Lords ſake whether it be to the King as ſupreame: or unto Gover<g ref="char:EOLhyphen"/>nours as to them that are ſent by him, <hi>&amp;c.</hi>
+               </p>
+               <p>Wherefore ye muſt needs be ſubject not only for wrath but for Conſcience ſake.<note place="margin">Rom. 13.5</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Is it not lawfull then to reſiſt a King that rules according to his Luſts, turning the Ordi<g ref="char:EOLhyphen"/>nance of God into Tyrany?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>That which [hath beene and ſhall be] ſpoken hereafter proves plainely the contrary.</p>
+               <p>
+                  <hi>David</hi> reſiſted not <hi>Saul</hi> though a wicked King, a Tyrant and his perſecutor, but on the contrary ſpare him twice when it was in his power to have ſlaine him.</p>
+               <p>Firſt in the Cave at <hi>Engedi</hi> where hee came ſo neare him that he cut of his skirt,<note place="margin">1 Sam. 24:31.4, 5, 6,</note> his men be<g ref="char:EOLhyphen"/>ginning to exult, ſaying this is the day wherein the Lord hath delivered thine enemy into thy hand to do with him what thou wilt, but what anſwer made loyal <hi>David</hi> to al theſe? God for<g ref="char:EOLhyphen"/>bid that I ſhould do this thing unto my Maſter the Lords anoynted: to ſtretch forth my hand a<g ref="char:EOLhyphen"/>gainſt him, ſeeing hee is the anoynted of the Lord, <hi>&amp;c.</hi> The whole Chapter is worth reading. Another time <hi>David</hi> found <hi>Saul</hi> ſleeping with his Speare pitched on the ground,<note place="margin">1 Sam. 26. p. 9. &amp;c. 2. Sam. 23.18. 1 Chro. <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</note> and a Pitcher of water at his bolſter, <hi>Abiſhay</hi> (one of <hi>Davids</hi> worthies) ſaid, God hath delivered thine ene<g ref="char:EOLhyphen"/>my into thine hand, now therefore I pray thee let me ſmite him with the Speare to the earth
+<pb n="11" facs="tcp:170688:7"/>at once I will not ſmite him twice, and <hi>David</hi> ſaid unto <hi>Abiſhay,</hi> deſtroy him not: For who can ſtretch forth his hand againſt the Lords anoyn<g ref="char:EOLhyphen"/>ted and be guiltleſſe, <hi>&amp;c.</hi>
+                  <note place="margin">Mat. 2.14 15.</note>
+               </p>
+               <p>Alſo our bleſſed Saviour [whoſe holy hu<g ref="char:EOLhyphen"/>manity wee ſhould all ſtrive to imitate] though by his divine power (as being King of Heaven and Earth) he could have deſtroyed <hi>Herod,</hi> and all his wicked confederates,<note place="margin">Ier. 27.6.7 8.</note> yet for (exempla<g ref="char:EOLhyphen"/>ry) obedience hee flies into <hi>Egypt</hi> til the ſtorme of perſecution is over. was not <hi>Nebuchadnezer</hi> a wicked King, a Tyrant, a Pagan, and Idola<g ref="char:EOLhyphen"/>ter, and yet he by whom Kings Reigne,<note place="margin">Prov. 21:1</note> (as hee was King) vouchſafeth to call him his Servant that Nation or Kingdome [ſaith the Lord) that will not put their necks under the yoak of <hi>Ne<g ref="char:EOLhyphen"/>buchadnezer</hi> (King of <hi>Babylon</hi>) my Servant, that Nation will I viſit with the ſword,<note place="margin">Ier. 29.7.</note> Peſti<g ref="char:EOLhyphen"/>lence, and Famine, untill I have deſtroyed it by him; the ſame <hi>Nebuchadnezer</hi> having caried Captive into <hi>Babylon, Iechoniah</hi> King of <hi>Iu<g ref="char:EOLhyphen"/>dah</hi> with his Queene, eunuches and Princes of <hi>Iudah,</hi> the Prophet <hi>Ieremiah</hi> writes a letter to his Country-men in Captivity exhorting them to obedience, bidding them to ſeeke the peace of the City <hi>Babylon,</hi> wherein they lived, and not to ſtir rebellious inſurrections, and to pray un<g ref="char:EOLhyphen"/>to the Lord for it, for in the Peace thereof [ſaith he] you ſhal have Peace, the Prophet <hi>Daniell</hi> told the ſame, <hi>Nebuchadnezer</hi> thus, thou O King
+<pb n="10" facs="tcp:170688:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:170688:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:170688:9"/>art a King of Kings:<note place="margin">Daniel 2.7.</note> for the God of Heaven hath given thee a Kingdome, Power, and ſtrength and glory, by what clearer teſtimonies then theſe can any truth be ratified? here tis plaine, that not only the beſt but even the worſt of Kings, as they were ordained of God, So were they obeyed by men, that Kings (in generall with out exception, are not to bee reſiſted, no not ſo much as thought, muckleſſe) ſpoken evill of, is manifoldly proved by the word of God. where the word of a King is, there is power, who may ſay unto him what doſt thou,<note place="margin">Eccl. 8.4. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd 20.</note> ſaith <hi>Salomon?</hi> and in the laſt verſe of the ſame Chapter he ſaith, curſe not the King, no not in thy thought.</p>
+               <p>Theſe directions of Gods holy ſpirit are ſlow<g ref="char:EOLhyphen"/>ly followed in this too haſty age of wickedneſſe where not an evill but a good not a Pagan but a pious Chriſtian King: not a <hi>Saul,</hi> a <hi>Nebuchad<g ref="char:EOLhyphen"/>nezer,</hi> nor a <hi>Herod,</hi> but rather, a <hi>David,</hi> a <hi>Heze<g ref="char:EOLhyphen"/>kiah,</hi> or a <hi>Ioſiah,</hi> is moſt vilanouſly traduced, ſcandalized, and trayterouſly calumniated, not only in private Bed-chambers, but in open and publike Aſſemblies, too ſhamefully for any loyall Subject to heare patiently.<note place="margin">Reg. 21.3.</note>
+               </p>
+               <p>It appeares by the ſtory of <hi>Ahab, Iezabel;</hi> and <hi>Naboath,</hi> that they who could be proved to have ſpoken Blaſphemy againſt God or the King, or both, were to be ſtoned to death, but if that Law [at this time] were put in execution in <hi>England,</hi> I think that the Streets of <hi>Lon<g ref="char:EOLhyphen"/>don</hi>
+                  <pb n="13" facs="tcp:170688:9"/>and other Cities and Townes in the King<g ref="char:EOLhyphen"/>dome muſt bee faine to deliver their Pave<g ref="char:EOLhyphen"/>ments into the executioners hands.</p>
+               <p>So ſoone as ever the young Prophet had ex<g ref="char:EOLhyphen"/>ecuted his Commiſſion in anoynting <hi>Iehu</hi> King over <hi>Iſraell,</hi>
+                  <note place="margin">2 Reg: 9.13.</note> the reſt of the Captaines [from whom he was called aſide] underſtanding [but only by his owne bare word] that he was anoin<g ref="char:EOLhyphen"/>ted King, they made haſt [though before they were ſo rude to tell him he ſpoke falſe] to lay their Garments under him on the top of the ſtaires, blowing with their Trumpets, and pro<g ref="char:EOLhyphen"/>claiming him King. Lord how much was an an<g ref="char:EOLhyphen"/>nointed King then eſteemed, and how much is the ſame Ordinance of God contemned now? Is it fit to ſay to a King thou art wicked,<note place="margin">Iob <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2 4:1 Acts 23. Exod. 28 Prov: 1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 14:15.</note> or to Princes yee are ungodly, ſaid <hi>Elihu</hi> to <hi>Iob,</hi> mark this all you my Countrymen who count it no<g ref="char:EOLhyphen"/>thing to queſtion your Kings ſmall imperfecti<g ref="char:EOLhyphen"/>ons. I wiſt not (ſaid Saint <hi>Paul</hi>) that it was the Lords high Prieſt, for it is written thou ſhalt not ſpeake evill againſt the Rulers of thy people.</p>
+               <p>The wrath of a King is as Meſſengers of death, but a wiſe man will pacifie it. In the Light of the Kings countenance is life and his favour is as a cloud of the latter Raine. Not many yeares ſince theſe ſentences did ſound well in <hi>Egland,</hi> but now a dayes too many, who think them<g ref="char:EOLhyphen"/>ſelves wiſer then <hi>Solomon,</hi> count them but little better then Chaucers <hi>Cant.</hi> tales, or non-ſence</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:170688:10"/>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>You have ſaid very well in all the Premiſes, now in concluſion what is a Sacrament?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>It is a ſigne of the divine promiſes, inſtituted by God, conſiſting in words and Elements, that ſet forth unto us a memory of the promiſes.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>How many Sacraments are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Two, Baptiſme and the Lords Supper, ha<g ref="char:EOLhyphen"/>ving in them the promiſes of the Goſpell, of re<g ref="char:EOLhyphen"/>miſſion of ſins;</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>What is Baptiſme?</hi> 
+                  <note place="margin">Math. 28, 19</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>It is a ſigne or Ceremony, inſtituted by Chriſt, that is to ſay, waſhing or ablution by water, to which is ordained words which teſti<g ref="char:EOLhyphen"/>fie our receiving and reconciliation to God.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Where do you find the inſtitution of Baptiſme?</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>In the Goſpell of Saint <hi>Mathew</hi> and Saint <hi>Marke.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>What thinke you of the Baptiſme of Infants, denyed by the Anabaptiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>Chriſt ſaith,<note place="margin">
+                     <hi>Sold.</hi> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn 3.5.</note> except a man be borne againe of water, and of the Holy Ghoſt, he cannot enter into the Kingdome of God. This ſentence is univerſall belonging to all that will bee ſaved, that it behoves all that are borne into the world to be borne againe by water, &amp;c. that is by Baptiſme, therefore there is a neceſſity for In<g ref="char:EOLhyphen"/>fants to bee Baptiſed, unleſſe we exclude them from ſalvation; alſo the command is generall, baptize all Nations, and are not Children com<g ref="char:EOLhyphen"/>prehended in the Nations, therefore Children
+<pb n="15" facs="tcp:170688:10"/>ought to be Baptized that they may be ſaved.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Well anſwered, What is the Lords Supper for wee will be briefe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>It is a Sacrament and ſeale of grace to our ſoules,<note place="margin">Math. 26.26. Mark 19.22. Luc. 22.19.</note> when under the external elements of bread and Wine, uſing our Saviours words at the inſti<g ref="char:EOLhyphen"/>tution, the true body and blood of Chriſt is ex<g ref="char:EOLhyphen"/>hibited for (and by us) to this end that having faith in the words and promiſe of Chriſt (who dying gave himſelfe for us) we may live through grace in him, being nouriſhed by this holy Sacra<g ref="char:EOLhyphen"/>ment, (whereof the Iewiſh Manna was a figure) unto eternall life as himſelfe ſaith: Your Fathers did eat Manna in the Wilderneſſe and are dead:<note place="margin">Iohn: 6.49 50.</note> this is the bread that came downe from Heaven of which he that eateth ſhall not die, &amp;c. All the chapter.</p>
+            </sp>
+            <sp>
+               <speaker>Mini.</speaker>
+               <p>
+                  <hi>Sith this Sacrament of Sacraments promi<g ref="char:EOLhyphen"/>ſeth ſo much grace to the worthy receiver, how ought you to deport and behave your ſelfe when you receive it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sold.</speaker>
+               <p>If fifty thouſand,<note place="margin">1 Sam. 6.19. 2 Sam. 6.6 7 1 Chron: 13.10</note> three ſcore and ten men of <hi>Bethſhemeſh</hi> were ſmitten with death by the Lord for their curioſity in looking into the Ark; if <hi>Vzah</hi> through ignorance touching the Arke, (as he thought to keepe it from falling) provo<g ref="char:EOLhyphen"/>ked the Lord in anger to kill him, what may many people of this preſent wicked age expect, that preſume without any reverence, devotion, or examination of themſelves to participate of
+<pb n="14" facs="tcp:170688:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:170688:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:170688:12"/>this divine Sacrament, going to it in the ſame poſture, (as they do to a Taverne, banquet, ſome ſtanding, ſome ſitting, none of them if they can be ſuffered) kneeling,<note place="margin">1 Cor. 11, 28, 29 1 Cor. 10 <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6;</note> eating, and drinking to themſelves Condemnation, as not diſcerning the body of our Lord. The Cupof bleſſing which we bleſſe ſaith the Apoſtle, is it not the Com<g ref="char:EOLhyphen"/>munion of the blood of Chriſt? the bread which wee break is it not the communion of the bo<g ref="char:EOLhyphen"/>dy of Chriſt? who then can or dare (if all grace have not left him) come towards theſe holy my<g ref="char:EOLhyphen"/>ſteries, but with grace, reverence, and examinati<g ref="char:EOLhyphen"/>on of conſcience, that hee may worthily receive the fruit thereof to ſalvation, and not to eter<g ref="char:EOLhyphen"/>nall damnation? Which God the Father that created us, God the Son that redeemed us, and God the Holy Ghoſt that ſanctified us, three perſons and one incomprehenſible, and everli<g ref="char:EOLhyphen"/>ving God, grant unto us all, that by the dolo<g ref="char:EOLhyphen"/>rous and bitter paſſion of our Saviour (from whence the Sacraments take their effects and vertue) wee being many may be one bread, and one body: being all pertakers of that one bread, who is the bread, that deſcended from Heaven; whether I beſeech him to bring us who bought us with his owne blood, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170688:12"/>
+            <pb n="16" facs="tcp:170688:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:170688:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
